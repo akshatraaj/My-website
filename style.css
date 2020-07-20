@@ -1,0 +1,28 @@
+h1{
+    color:white; 
+ }
+ /**{
+     border:solid;
+ }*/
+ body{
+     background-color:darkorange;
+ }
+ .header{
+     background-color: red;
+     display:flex;
+     justify-content: space-between;
+     text-align: center;
+ }
+ .grid{
+     display: flex;
+     flex-wrap: wrap;
+
+ }
+ .item{
+     width: 400px;
+ }
+ .h{
+     text-align: center;
+ }
+    
+ 
